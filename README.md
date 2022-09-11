@@ -12,6 +12,6 @@ All of the following Directories contains scripts files:
 | Directories | Description |
 | -------- | ----------- |
 | `0x00-hello_world` | `Contains shell basics script files with shell C program file` |
-| `placeholder` | `Contains shell permission script fils with commands` |
+| `0x01-variables_if_else_while` | `Contains C programs that checks for if els statement` |
 | `placeholder` | `Contains shell redirection script files with commands Displays the content of the ` |
 

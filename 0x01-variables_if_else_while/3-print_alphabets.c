@@ -7,13 +7,12 @@
  */
 int main(void)
 {
-char alp[26] = "abcdefghijklmnopqrstuvwxyz";
+char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 unsigned int i;
 for (i = 0; i < sizeof(alp); i++)
 {
 putchar(alp[i]);
 }
-putchar(toupper(alp[26]));
 putchar('\n');
 return (0);
 }

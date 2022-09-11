@@ -1,5 +1,4 @@
-#includes<stdio.h>
-#includes<stdlib.h>
+#include<stdio.h>
 /**
  * main - A function with a print method
  * Description - Prints a char in uppercase

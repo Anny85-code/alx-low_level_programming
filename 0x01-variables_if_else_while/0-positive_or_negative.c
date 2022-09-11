@@ -2,9 +2,9 @@
 #include<time.h>
 #include<stdio.h>
 /**
- * main: Describes if the number is negative or positive
+ * main - The function checks if the number is positive or negative
+ * Description - Contains the main function and if else statements
  * Return: Always 0 (success)
- * description: Created an if else statement
  */
 int main(void)
 {
@@ -18,7 +18,7 @@ if (n > 0)
 }
 else if (n == 0)
 {
-	printf("%d is zero", n);
+	printf("%d is zero\n", n);
 }
 else
 {

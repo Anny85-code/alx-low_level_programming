@@ -8,7 +8,7 @@ int main(void)
 {
 char alp[26];
 alp[26] = "abcdefghijklmnopqrstuvwxyz";
-int i;
+char i;
 for (i = 0; i < sizeof(alp); i++)
 {
 putchar(alp[i]);

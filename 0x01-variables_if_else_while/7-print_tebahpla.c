@@ -7,8 +7,7 @@
 int main(void)
 {
 unsigned int i;
-char alp[26] = "abcdefghijklmnopqrstuvwxyz";
-for (i = sizeof(alp - 1); i > 0; i--)
+for (i = 122; i > 96; i--)
 {
 putchar(alp[i]);
 }

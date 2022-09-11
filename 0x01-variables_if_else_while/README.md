@@ -13,6 +13,7 @@ All of the following Directories contains scripts files:
 | -------- | ----------- |
 | `0-positive_or_negative.c` | `Contains a main program that checks for negative and positive and prints n` |
 | `1-last_digit.c` | `Contains a main C program that prints the last digit` |
-| `placeholder` | `Contains shell redirection script files with commands Displays the content of the ` |
+| `2-print_alphabet.c` | `Contains C program that loops and prints alphabets in lowercase ` |
+| `3-print_alphabets.c`| `Contains a C program that loops and prints alphabets in lower and upcase letters` |
 
 

@@ -20,5 +20,6 @@ All of the following Directories contains scripts files:
 | `6-print_numberz.c` | `Contains a file that prints all single digit numbers in base 10 from zero in anew line` |
 | `7-print_tebahpla.c` | `Contains a file that prints lowercase in reverse order` |
 | `8-print_base16.c` | `Contains a file that prints single digit numbersin base 16 starting from 0` |
+| `9-print_comb.c` | `Contains a file that prints single digit with comma and space` |
 
 

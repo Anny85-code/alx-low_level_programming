@@ -9,10 +9,10 @@ Project done during **Full Stack Software Engineering studies** at **Alx Africa*
 ## Directories
 All of the following Directories contains scripts files:
 
-| Directories | Description |
+| Files | Description |
 | -------- | ----------- |
-| `Variables and if statements` | `Contains shell basics script files with shell C program file` |
-| `placeholder` | `Contains shell permission script fils with commands` |
+| `0-positive_or_negative.c` | `Contains a main program that checks for negative and positive and prints n` |
+| `1-last_digit.c` | `Contains a main C program that prints the last digit` |
 | `placeholder` | `Contains shell redirection script files with commands Displays the content of the ` |
 
 

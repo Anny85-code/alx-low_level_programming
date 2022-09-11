@@ -9,7 +9,7 @@ int main(void)
 unsigned int i;
 for (i = 122; i > 96; i--)
 {
-putchar(alp[i]);
+putchar(i);
 }
 putchar('\n');
 }

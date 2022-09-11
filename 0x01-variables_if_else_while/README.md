@@ -15,5 +15,6 @@ All of the following Directories contains scripts files:
 | `1-last_digit.c` | `Contains a main C program that prints the last digit` |
 | `2-print_alphabet.c` | `Contains C program that loops and prints alphabets in lowercase ` |
 | `3-print_alphabets.c`| `Contains a C program that loops and prints alphabets in lower and upcase letters` |
+| `4-print_alphabt.c` | `Conatins a C program that prints alphabets except q and e` |
 
 

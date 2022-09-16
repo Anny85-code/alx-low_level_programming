@@ -14,4 +14,8 @@ All the following files contains C programs
 | Files | Description |
 | -------- | ----------- |
 | ` main.h ` | ` Contains the functions prototype ` |
-| ` 0-main.c ` | ` Contains test file ` | 
+| ` 0-main.c ` | ` Contains test file ` |
+| ` 1-main.c ` | ` Conatains a file to check infinite loop ` |
+| ` 2-largest_number.c ` | ` Contains file to check for large number ` |
+| ` 3-print_remaining_days.c ` | ` Contains file to print remaining days in a month ` |
+

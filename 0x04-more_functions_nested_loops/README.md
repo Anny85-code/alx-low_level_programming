@@ -1,4 +1,4 @@
-# C - More functions, more nested loops
+#C - More functions, more nested loops
 
 Project done during **Full Stack Software Engineering studies** at **Alx Africa**. It aims to learn about functions and nested loops in **C**
 ## Technologies
@@ -32,3 +32,4 @@ All of the following files are scripts:
 | `19-AZ` | Replaces all characters `A` and `c` from input to `Z` and `e` respectively |
 | `20-hiago` | Removes all letters `c` and `C` from input |
 | `21-reverse` | Reverses its input |
+

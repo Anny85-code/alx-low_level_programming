@@ -11,10 +11,10 @@ All of the following files are scripts:
 | Filename | Description |
 | -------- | ----------- |
 | `0-reset_to_98.c` | Creates a pointer |
-| `1-confused_smiley` | Displays a confused smiley `"(Ôo)'` |
-| `2-hellofile` | Displays the content of the `/etc/passwd`file |
-| `3-twofiles` | Displays the content of `/etc/passwd` and `/etc/hosts` |
-| `4-lastlines` | Displays the last 10 lines of `/etc/passwd` |
+| `1-swap.c` | Swaps values |
+| `2-strlen.c` | Prints the string length |
+| `3-puts.c` | Prints the value of the string |
+| `4-print_rev.c` | Reverse a string, followed by a new line |
 | `5-firstlines` | Displays the first 10 lines of `/etc/passwd` |
 | `6-third_line` | Displays the third line of the file `iacta` |
 | `7-file` | Creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the test `Best School` ending by a new line |

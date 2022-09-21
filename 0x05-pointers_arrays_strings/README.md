@@ -1,4 +1,4 @@
-#C - Pointers, Arrays and Strings
+# C - Pointers, Arrays and Strings
 
 Project done during **Full Stack Software Engineering studies** at **Alx Africa**. It aims to learn about pointers, arrays and stringsin **C**
 ## Technologies

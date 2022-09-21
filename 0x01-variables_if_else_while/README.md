@@ -1,4 +1,4 @@
-#Variables and if else statement
+# Variables and if else statement
 
 Project done during **Full Stack Software Engineering studies** at **Alx Africa**. It aims to learn about how to write and compile, run the file C program with gcc compiler.
 

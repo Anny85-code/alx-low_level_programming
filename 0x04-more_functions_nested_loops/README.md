@@ -1,4 +1,4 @@
-#C - More functions, more nested loops
+# C - More functions, more nested loops
 
 Project done during **Full Stack Software Engineering studies** at **Alx Africa**. It aims to learn about functions and nested loops in **C**
 ## Technologies

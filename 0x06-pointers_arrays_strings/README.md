@@ -10,9 +10,9 @@ All of the following files are scripts:
 
 | Filename | Description |
 | -------- | ----------- |
-| `0-strcat.c` | Creates a pointer |
-| `1-swap.c` | Swaps values |
-| `2-strlen.c` | Prints the string length |
+| `0-strcat.c` | Concatenates a string |
+| `1-strncat.c` | Concatenates two strings |
+| `2-strncpy.c` | Copies a string to another string |
 | `3-puts.c` | Prints the value of the string |
 | `4-print_rev.c` | Reverse a string, followed by a new line |
 | `5-rev_string.c` | Reverse a string |

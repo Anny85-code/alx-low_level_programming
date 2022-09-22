@@ -9,18 +9,13 @@
 
 int _strcmp(char *s1, char *s2)
 {
-int count;
-int count2;
-while (*(s1 + count) == '\0')
+int i = 0, op = 0;
+while (op == 0)
 {
-count++;
-}
-while (*(s2 + count2) == '\0')
-{
-if (*(s1 + count) == *(s2 + count2))
-	break;
-int op = *(s1 + count) - *(s2 + count2);
-count2++;
+if ((*(s1 + i) == '\0') && (*(s2 + i) == '\0'))
+break;
+op = *(s1 + i) - *(s2 + i);
+i++;
 }
 return (op);
 }

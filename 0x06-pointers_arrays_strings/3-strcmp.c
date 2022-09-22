@@ -19,7 +19,7 @@ while (*(s2 + count2) == '\0')
 {
 if (*(s1 + count) == *(s2 + count2))
 	break;
-int op = *(s1) - *(s2);
+int op = *(s1 + count) - *(s2 + count2);
 count2++;
 }
 return (op);

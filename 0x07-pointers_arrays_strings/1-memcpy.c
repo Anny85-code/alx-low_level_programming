@@ -5,6 +5,7 @@
 * @dest: Holds array address
 * @src: Holds array poiinter values
 * @n: Holds integer
+* Return: dest pointer
 */
 
 char *_memcpy(char *dest, char *src, unsigned int n)

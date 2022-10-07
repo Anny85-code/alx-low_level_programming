@@ -20,7 +20,7 @@ if (strout == NULL)
 return (NULL);
 for (j = 0; j <= i; j++)
 strout[j] = str[j];
-strout = '\0';
+strout[j] = '\0';
 return (strout);
 
 }
